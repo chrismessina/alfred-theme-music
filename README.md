@@ -42,4 +42,4 @@ The inspiration for this theme is Music.app:
 
 This theme is unaffiliated with nor endorsed by Apple, Inc.
 
-<a href="https://www.alfredforum.com/topic/16378-deliveriesapp-inspired-theme/">Alfred Forum link</a>.
+<a href="https://www.alfredforum.com/topic/16379-musicapp-inspired-theme/">Alfred Forum link</a>.
